@@ -8,7 +8,10 @@ const nuevoNum = '8';
 
 
 // Crea una variable booleana:
-const nuevoBool = null;
+const nuevoBool = null
+var 30 > 10 = true;
+
+
 
 
 // Resuelve el siguiente problema matemático:
